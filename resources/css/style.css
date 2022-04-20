@@ -1,0 +1,43 @@
+html {
+    font-size: 16px;
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+header h1 {
+    font-size: 3.125rem;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+}
+
+#section2 h1 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+#section2 p {
+    font-size: 1.3125rem;
+    color: gray;
+}
+
+#section3 h1 {
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 1rem;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
