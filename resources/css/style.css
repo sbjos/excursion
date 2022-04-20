@@ -1,13 +1,14 @@
 html {
     font-size: 16px;
     background-color: black;
+
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6, p, a {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-}
 
 header h1 {
     font-size: 3.125rem;
@@ -16,9 +17,17 @@ header h1 {
     font-weight: normal;
 }
 
+#section1 video {
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-top: 1.25%;
+}
+
 #section2 h1 {
     font-weight: 300;
     font-size: 2.625rem;
+    color: white;
 }
 
 #section2 p {
@@ -29,6 +38,7 @@ header h1 {
 #section3 h1 {
     font-weight: 300;
     font-size: 2.625rem;
+    color: white;
 }
 
 .link {
@@ -39,5 +49,9 @@ header h1 {
 
 footer {
     text-align: right;
+}
+
+footer p {
+    font-size: 1.3125rem;
     color: gray;
 }
